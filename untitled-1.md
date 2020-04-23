@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /untitled-1
+title: untitled 1
 permalink: /untitled-1/
 ---
 
