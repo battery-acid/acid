@@ -4,5 +4,5 @@ header_pages:
   - index.md
   - untitled-1.md
 
-footer: '<p>Date/Time: <span id="datetime"></span></p><script>var dt = new Date();
+footer: '<span id="datetime"></span><script>var dt = new Date();
 document.getElementById("datetime").innerHTML=dt.toLocaleString();</script>'
